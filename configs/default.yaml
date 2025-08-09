@@ -1,0 +1,4 @@
+github_token: "YOUR_GITHUB_TOKEN"
+repos:
+  - "owner/repo1"
+  - "owner/repo2"
